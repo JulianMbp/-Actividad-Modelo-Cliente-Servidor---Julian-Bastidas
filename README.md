@@ -31,6 +31,9 @@ Respuesta:
 
 ## 2) Diagrama de secuencia: `GET /productos`
 
+ <img width="442" height="242" alt="image" src="https://github.com/user-attachments/assets/a57b4dbc-6ca8-4c60-a40a-62ff7ad81976" />
+
+
 **Diagrama de secuencia**
 
 El diagrama de secuencia incluye: Navegador, DNS, Servidor Web, Base de Datos.  
