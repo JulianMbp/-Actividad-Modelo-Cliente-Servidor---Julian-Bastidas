@@ -1,7 +1,7 @@
 # 👤 Datos del estudiante
 
 **Nombre:** Julian Bastidas  
-**Grupo:**  Solano
+**Grupo:**  Solo
 **Fecha:** 11/08/2025
 
 ---
